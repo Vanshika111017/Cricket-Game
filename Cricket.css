@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+}
+.Choice-button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  background-color: antiquewhite;
+  margin: 10px;
+  cursor: pointer;
+
+}
+.Choice-image {
+  height: 80px;
+}
